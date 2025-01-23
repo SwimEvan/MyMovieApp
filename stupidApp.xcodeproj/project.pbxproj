@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D37F96EF2D412E3100569825 /* movieDetailControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37F96EE2D412E3100569825 /* movieDetailControllerViewController.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		D3B22A332D394475003C33D3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D37F96EE2D412E3100569825 /* movieDetailControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = movieDetailControllerViewController.swift; sourceTree = "<group>"; };
 		D3B22A1C2D394472003C33D3 /* stupidApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = stupidApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3B22A322D394475003C33D3 /* stupidAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = stupidAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3B22A3C2D394475003C33D3 /* stupidAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = stupidAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +93,7 @@
 		D3B22A132D394472003C33D3 = {
 			isa = PBXGroup;
 			children = (
+				D37F96EE2D412E3100569825 /* movieDetailControllerViewController.swift */,
 				D3B22A1E2D394472003C33D3 /* stupidApp */,
 				D3B22A352D394475003C33D3 /* stupidAppTests */,
 				D3B22A3F2D394475003C33D3 /* stupidAppUITests */,
@@ -249,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D37F96EF2D412E3100569825 /* movieDetailControllerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
